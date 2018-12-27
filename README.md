@@ -4,4 +4,5 @@
 
 git status 查看状态
 git add . 添加改动内容
+git commit -m "message" 提交代码到暂存区
 
