@@ -9,5 +9,4 @@ git push 推送到远程仓库
 git cherry-pick xxx
 //todo
 skill
-电脑卡了
 
